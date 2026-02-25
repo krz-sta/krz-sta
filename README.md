@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a fullstack web application project (Exprexx, React, Supabase, WebSockets)<br>Open to collaborate on web projects.<br>
+I’m currently working on a fullstack web application project (Express, React, Supabase, WebSockets)<br>Open to collaborate on web projects.<br>
 
 
 ## 🌐 Socials:
