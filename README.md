@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a **Computer Science** student at **Polish Naval Academy** and an aspiring Software Developer currently exploring Java and looking for an intership to apply my academic and personal project knowledge to real-world tasks and contribute to building scalable solutions within an experienced development team.
 
-I’m currently working on a fullstack web application project (Express, React, Supabase, WebSockets)<br>Open to collaborating on web projects.<br>
+I’m currently working on back-end for a web application project (Java, Spring Boot, Jsoup, Gemini API)<br>Open to collaborating on web projects.<br>
 
 
 ## 🌐 Socials:
